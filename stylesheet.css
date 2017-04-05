@@ -1,0 +1,77 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.card {
+    width: 50vw;
+    float: left;
+    display: block;
+    margin: 1vh 1vw 1vh 1vw;
+    padding: 10px;
+    height: 25vh;
+}
+
+.card:hover {
+    z-index: 200;
+}
+
+.test li:not(:first-child) {
+/*    background-color: red;
+    margin: 1vh 1vw 1vh -20vw;*/
+}
+
+.card < div {
+    display: block;
+    width: 200px;
+}
+
+.cardC {
+    clear: both;
+    top: 50vh;
+}
+
+.beginB {
+    clear: both;
+}
+
+#carCard1 {
+    z-index: 101;
+}
+
+#carCard2 {
+    z-index: 102;
+}
+
+#carCard3 {
+    z-index: 103;
+}
+
+#carCard4 {
+    z-index: 104;
+}
+
+#carCard5 {
+    z-index: 105;
+}
+
+#carCard6 {
+    z-index: 106;
+}
+
+#carCard7 {
+    z-index: 107;
+}
+
+#carCard8 {
+    z-index: 108;
+}
+
+#carCard9 {
+    z-index: 109;
+}
+
+#carCard10 {
+    z-index: 110;
+}
